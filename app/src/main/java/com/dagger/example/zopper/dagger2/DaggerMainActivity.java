@@ -15,7 +15,6 @@ import com.example.component.VehicleComponent;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
-
 public class DaggerMainActivity extends AppCompatActivity
 {
     Vehicle vehicle;
