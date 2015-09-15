@@ -41,7 +41,7 @@ public class VehicleModule
     @Provides @Singleton
     Motor provideMotor()
     {
-        return new Motor();
+         return new Motor();
     }
 
     @Provides @Singleton
