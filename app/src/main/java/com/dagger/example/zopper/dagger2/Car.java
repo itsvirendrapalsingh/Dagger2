@@ -6,6 +6,7 @@ package com.dagger.example.zopper.dagger2;
 public class Car
 {
     Vehicle vehicle;
+
     public Car(Vehicle vehicle)
     {
         this.vehicle = vehicle;
