@@ -21,11 +21,12 @@ local.properties
 .project
 
 # Android Studio
-.idea/
 .gradle
-/*/local.properties
-/*/out
-/*/*/build
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
 /*/*/production
 *.iml
 *.iws
