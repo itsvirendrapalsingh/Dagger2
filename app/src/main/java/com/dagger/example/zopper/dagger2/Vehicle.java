@@ -7,6 +7,7 @@ import javax.inject.Inject;
  */
 public class Vehicle
 {
+    //Hey Got The Vehicle Objects.
     private Motor motor;
 
     @Inject
