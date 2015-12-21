@@ -5,6 +5,7 @@ package com.dagger.example.zopper.dagger2;
  */
 public class Motor
 {
+    //Its Motor Class Added For This Method.
     private int rpm;
 
     public Motor()
