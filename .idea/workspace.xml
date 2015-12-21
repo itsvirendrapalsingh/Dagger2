@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="490f0728-5e25-4f46-a93b-13e8b3a70e15" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/Vehicle.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/Vehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/DaggerMainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/DaggerMainActivity.java" />
     </list>
     <ignored path="Dagger2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/Vehicle.java">
+      <file leaf-file-name="DaggerMainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/DaggerMainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3488372">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.31007752">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -1519,6 +1519,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/Motor.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/Vehicle.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/DaggerMainActivity.java" />
       </list>
     </option>
   </component>
@@ -1883,6 +1884,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3488372">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dagger/example/zopper/dagger2/DaggerMainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31007752">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding />
         </state>
       </provider>
