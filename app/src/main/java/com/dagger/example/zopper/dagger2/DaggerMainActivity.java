@@ -40,6 +40,7 @@ public class DaggerMainActivity extends AppCompatActivity
         return true;
     }
 
+    //Checks
     @Override
     public boolean onOptionsItemSelected(MenuItem item)
     {
